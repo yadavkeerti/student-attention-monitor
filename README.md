@@ -71,7 +71,7 @@ The system displays:
 * Final Attention Status
 
 ### 🟢 Attentive State
-<img src="attentive.png" width="300"/>
+<img src="attention.png" width="300"/>
 
 ### ⚠️ Distracted State
 <img src="distracted.png" width="300"/>
