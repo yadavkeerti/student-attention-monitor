@@ -70,6 +70,15 @@ The system displays:
 * Attention Score
 * Final Attention Status
 
+### 🟢 Attentive State
+<img src="attentive.png" width="300"/>
+
+### ⚠️ Distracted State
+<img src="distracted.png" width="300"/>
+
+### ❌ No Face Detected
+<img src="noface.png" width="300"/>
+
 ---
 
 ## ⚠️ Limitations
